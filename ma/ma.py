@@ -1,14 +1,10 @@
 # -*- coding: utf-8 -*-
-
-# 简便起见，可以直接用 from gm.api import *
 from gm.api import *
 from datetime import datetime
 from datetime import timedelta
 import talib
 import numpy as np
 from collections import deque
-
-# 本策略基于掘金量化交易平台 网址：www.myquant.cn
 
 # 常用参量设置
 DATE_STR = "%Y-%m-%d"

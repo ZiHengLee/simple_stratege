@@ -1,0 +1,1 @@
+export PYTHONPATH=/Users/zuiyou/mywork/stock/simple_stratege/czsc
